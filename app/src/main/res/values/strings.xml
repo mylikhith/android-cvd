@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">CardioVascularDisease</string>
+    <string name="cardio_vascular_disease_predictor">Cardio Vascular Disease Predictor</string>
+    <string name="age">Age</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="gender">Gender</string>
+    <string name="systolic_blood_pressure">Systolic blood pressure</string>
+    <string name="diastolic_blood_pressure">Diastolic blood pressure</string>
+    <string name="cholesterol">Cholesterol</string>
+    <string name="glucose">Glucose</string>
+    <string name="smoking">Smoking</string>
+    <string name="alcohol_intake">Alcohol intake</string>
+    <string name="physical_activity">Physical activity</string>
+    <string name="predict">Predict</string>
+    <string name="result">Result</string>
+
+    <!-- Age -->
+    <string name="age_hint">Enter your age</string>
+
+    <!-- Height -->
+    <string name="height_hint">Enter your height (in cm)</string>
+
+    <!-- Weight -->
+    <string name="weight_hint">Enter your weight (in kg)</string>
+
+    <!-- Systolic Blood Pressure -->
+    <string name="sbp_hint">Enter your systolic blood pressure</string>
+
+    <!-- Diastolic Blood Pressure -->
+    <string name="dbp_hint">Enter your diastolic blood pressure</string>
+
+    <!-- String array for cholesterol levels -->
+    <string-array name="cholesterol_levels">
+        <item>Normal</item>
+        <item>Above normal</item>
+        <item>Well above normal</item>
+    </string-array>
+
+    <!-- String array for glucose levels -->
+    <string-array name="glucose_levels">
+        <item>Normal</item>
+        <item>Above normal</item>
+        <item>Well above normal</item>
+    </string-array>
+</resources>

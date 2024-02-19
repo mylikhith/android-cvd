@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+        <!-- String array for smoking options -->
+        <string-array name="smoking_options">
+            <item>Yes</item>
+            <item>No</item>
+        </string-array>
+
+        <!-- String array for alcohol intake options -->
+        <string-array name="alcohol_options">
+            <item>Yes</item>
+            <item>No</item>
+        </string-array>
+
+        <!-- String array for physical activity options -->
+        <string-array name="activity_options">
+            <item>Yes</item>
+            <item>No</item>
+        </string-array>
+
+</resources>
